@@ -1,0 +1,3 @@
+rootProject.name = 'RNOSRM'
+
+include ':app', ':osmbonuspack_6.4'
